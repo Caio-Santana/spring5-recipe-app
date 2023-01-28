@@ -1,5 +1,6 @@
-package guru.springframework.spring5recipeapp.controllers;
+package guru.springframework.controllers;
 
+import guru.springframework.spring5recipeapp.controllers.IndexController;
 import guru.springframework.spring5recipeapp.domain.Recipe;
 import guru.springframework.spring5recipeapp.services.RecipeService;
 import org.junit.jupiter.api.BeforeEach;
