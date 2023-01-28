@@ -1,4 +1,4 @@
-package guru.springframework.controllers;
+package guru.springframework.spring5recipeapp.controllers;
 
 import guru.springframework.spring5recipeapp.controllers.IndexController;
 import guru.springframework.spring5recipeapp.domain.Recipe;
